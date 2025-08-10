@@ -1,0 +1,32 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    box-sizing: border-box;
+}
+#section-1{
+    background-color: #1f2937;
+    height: 22.5vh;
+}
+#section-2{
+    background-color: white;
+    height: 22.5vh;
+}
+#section-3{
+    background-color: #e5e7eb;
+    height: 22.5vh;
+}
+#section-4{
+    background-color: white;
+    height: 22.5vh;
+}
+footer{
+    background-color: #1f2937;
+    height: 10vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
