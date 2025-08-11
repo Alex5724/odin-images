@@ -7,11 +7,10 @@ body{
 }
 #section-1{
     background-color: #1f2937;
-    height: 40vh;
+    height: 50vh;
 }
 #subsection-1{
     margin: 0 100px;
-    height: 22.5vh;
 }
 #Header-links{
     display: inline-flex;
@@ -38,7 +37,7 @@ body{
 }
 #section-2{
     background-color: white;
-    height: 22.5vh;
+    height: 50vh;
 }
 #section-3{
     background-color: #e5e7eb;
@@ -70,7 +69,7 @@ a{
     text-decoration: none;
     color: white;
 }
-h3{
+#first-h3-header{
     color: #F9FAF8;
     margin: auto auto auto 0;
     font-size: 24px;
@@ -80,12 +79,12 @@ h1{
     font-size: 48px;
     color: #F9FAF8;
 }
-#first-paragraf{
+#first-paragraph{
     margin: 10px 0;
     font-size: 18px;
     color: #e5e7eb;
 }
-button{
+#first-button{
     color: #e5e7eb;
     border-radius: 10px;
     background-color: #3882f6;
@@ -95,3 +94,32 @@ button{
     padding: 10px 30px;
     margin: 0;
 }
+#second-h3-header{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+    margin: 40px 0;
+}
+#container{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+}
+#item{
+    border: 3px solid #3882f6;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+#subsection-2{
+    margin: 0 100px;
+}
+#container-paragraph{
+    width: 150px;
+    text-align: center;
+    margin: 10px 0;
+    color: gray;
+}
+
