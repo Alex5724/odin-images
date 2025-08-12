@@ -41,7 +41,10 @@ body{
 }
 #section-3{
     background-color: #e5e7eb;
-    height: 22.5vh;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #section-4{
     background-color: white;
@@ -122,4 +125,19 @@ h1{
     margin: 10px 0;
     color: gray;
 }
+#subsection-3{
+    margin: 0 300px;
+    display: block;
 
+}
+#subsection-3-paragraph-1{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+#subsection-3-paragraph-2{
+    display: inline-block;
+    text-align: right;
+    width: 100%;
+}
