@@ -1,1 +1,1 @@
-# odin-images
+Hello! This is a landing page made for practicing the skills from the odin project. It doesn't have any images or any other author license requirements, so, just enjoy the web page the way it is, it'm my first web page of such complexity.
